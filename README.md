@@ -14,13 +14,6 @@ Automatically open the browser for easy exploitation.
 - requests library
 - beautifulsoup4 library
 
-# Installation
-- Clone the repository:
-`git clone https://github.com/fagun18/web-vulnerability.git`
-
-- Change into the project directory:
-`cd web-vulnerability-script`
-
 - Install the required dependencies:
 `pip install -r requirements.txt`
 
@@ -29,11 +22,5 @@ Automatically open the browser for easy exploitation.
 
 Replace https://www.example.com with the target website URL you want to scan for vulnerabilities.
 
-# Disclaimer
-Please ensure that you have proper authorization before conducting any vulnerability testing. Use this script responsibly and for educational purposes only. I am not responsible for any misuse or illegal activities.
 
-# Contributing
-Contributions are welcome! If you have any suggestions, improvements, or new features to add, please open an issue or submit a pull request.
 
-# License
-This project is licensed under the MIT License.
